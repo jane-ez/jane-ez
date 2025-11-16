@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jane-ez
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning HTML, CSS and JavaScript and I've made a good progress at it in such a short time
+- 🌱 HTML, CSS, JavaScript, React, Typescript, nextJs, SQL 
 - 💞️ I’m looking to collaborate on frontend development projects
 
 
